@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#this doesnt work
 import os
 import sys
 
